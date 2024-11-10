@@ -1,0 +1,16 @@
+D:\4th semester\Data sturctures and algorithm\aaaa final code\Spectrum_Technologies_N\Spectrum_Technologies_N\bin\Debug\net5.0\Spectrum_Technologies_N.exe
+D:\4th semester\Data sturctures and algorithm\aaaa final code\Spectrum_Technologies_N\Spectrum_Technologies_N\bin\Debug\net5.0\Spectrum_Technologies_N.deps.json
+D:\4th semester\Data sturctures and algorithm\aaaa final code\Spectrum_Technologies_N\Spectrum_Technologies_N\bin\Debug\net5.0\Spectrum_Technologies_N.runtimeconfig.json
+D:\4th semester\Data sturctures and algorithm\aaaa final code\Spectrum_Technologies_N\Spectrum_Technologies_N\bin\Debug\net5.0\Spectrum_Technologies_N.runtimeconfig.dev.json
+D:\4th semester\Data sturctures and algorithm\aaaa final code\Spectrum_Technologies_N\Spectrum_Technologies_N\bin\Debug\net5.0\Spectrum_Technologies_N.dll
+D:\4th semester\Data sturctures and algorithm\aaaa final code\Spectrum_Technologies_N\Spectrum_Technologies_N\bin\Debug\net5.0\Spectrum_Technologies_N.pdb
+D:\4th semester\Data sturctures and algorithm\aaaa final code\Spectrum_Technologies_N\Spectrum_Technologies_N\obj\Debug\net5.0\Spectrum_Technologies_N.csproj.AssemblyReference.cache
+D:\4th semester\Data sturctures and algorithm\aaaa final code\Spectrum_Technologies_N\Spectrum_Technologies_N\obj\Debug\net5.0\Spectrum_Technologies_N.GeneratedMSBuildEditorConfig.editorconfig
+D:\4th semester\Data sturctures and algorithm\aaaa final code\Spectrum_Technologies_N\Spectrum_Technologies_N\obj\Debug\net5.0\Spectrum_Technologies_N.AssemblyInfoInputs.cache
+D:\4th semester\Data sturctures and algorithm\aaaa final code\Spectrum_Technologies_N\Spectrum_Technologies_N\obj\Debug\net5.0\Spectrum_Technologies_N.AssemblyInfo.cs
+D:\4th semester\Data sturctures and algorithm\aaaa final code\Spectrum_Technologies_N\Spectrum_Technologies_N\obj\Debug\net5.0\Spectrum_Technologies_N.csproj.CoreCompileInputs.cache
+D:\4th semester\Data sturctures and algorithm\aaaa final code\Spectrum_Technologies_N\Spectrum_Technologies_N\obj\Debug\net5.0\Spectrum_Technologies_N.dll
+D:\4th semester\Data sturctures and algorithm\aaaa final code\Spectrum_Technologies_N\Spectrum_Technologies_N\obj\Debug\net5.0\refint\Spectrum_Technologies_N.dll
+D:\4th semester\Data sturctures and algorithm\aaaa final code\Spectrum_Technologies_N\Spectrum_Technologies_N\obj\Debug\net5.0\Spectrum_Technologies_N.pdb
+D:\4th semester\Data sturctures and algorithm\aaaa final code\Spectrum_Technologies_N\Spectrum_Technologies_N\obj\Debug\net5.0\Spectrum_Technologies_N.genruntimeconfig.cache
+D:\4th semester\Data sturctures and algorithm\aaaa final code\Spectrum_Technologies_N\Spectrum_Technologies_N\obj\Debug\net5.0\ref\Spectrum_Technologies_N.dll
